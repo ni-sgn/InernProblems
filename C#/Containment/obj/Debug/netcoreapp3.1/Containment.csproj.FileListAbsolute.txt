@@ -1,0 +1,13 @@
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Containment\bin\Debug\netcoreapp3.1\Containment.exe
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Containment\bin\Debug\netcoreapp3.1\Containment.deps.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Containment\bin\Debug\netcoreapp3.1\Containment.runtimeconfig.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Containment\bin\Debug\netcoreapp3.1\Containment.runtimeconfig.dev.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Containment\bin\Debug\netcoreapp3.1\Containment.dll
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Containment\bin\Debug\netcoreapp3.1\Containment.pdb
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Containment\obj\Debug\netcoreapp3.1\Containment.csprojAssemblyReference.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Containment\obj\Debug\netcoreapp3.1\Containment.AssemblyInfoInputs.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Containment\obj\Debug\netcoreapp3.1\Containment.AssemblyInfo.cs
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Containment\obj\Debug\netcoreapp3.1\Containment.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Containment\obj\Debug\netcoreapp3.1\Containment.dll
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Containment\obj\Debug\netcoreapp3.1\Containment.pdb
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Containment\obj\Debug\netcoreapp3.1\Containment.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Parentheses\bin\Debug\netcoreapp3.1\Parentheses.exe
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Parentheses\bin\Debug\netcoreapp3.1\Parentheses.deps.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Parentheses\bin\Debug\netcoreapp3.1\Parentheses.runtimeconfig.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Parentheses\bin\Debug\netcoreapp3.1\Parentheses.runtimeconfig.dev.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Parentheses\bin\Debug\netcoreapp3.1\Parentheses.dll
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Parentheses\bin\Debug\netcoreapp3.1\Parentheses.pdb
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Parentheses\obj\Debug\netcoreapp3.1\Parentheses.csprojAssemblyReference.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Parentheses\obj\Debug\netcoreapp3.1\Parentheses.AssemblyInfoInputs.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Parentheses\obj\Debug\netcoreapp3.1\Parentheses.AssemblyInfo.cs
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Parentheses\obj\Debug\netcoreapp3.1\Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Parentheses\obj\Debug\netcoreapp3.1\Parentheses.dll
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Parentheses\obj\Debug\netcoreapp3.1\Parentheses.pdb
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Parentheses\obj\Debug\netcoreapp3.1\Parentheses.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Splitting\bin\Debug\netcoreapp3.1\Splitting.exe
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Splitting\bin\Debug\netcoreapp3.1\Splitting.deps.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Splitting\bin\Debug\netcoreapp3.1\Splitting.runtimeconfig.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Splitting\bin\Debug\netcoreapp3.1\Splitting.runtimeconfig.dev.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Splitting\bin\Debug\netcoreapp3.1\Splitting.dll
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Splitting\bin\Debug\netcoreapp3.1\Splitting.pdb
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Splitting\obj\Debug\netcoreapp3.1\Splitting.csprojAssemblyReference.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Splitting\obj\Debug\netcoreapp3.1\Splitting.AssemblyInfoInputs.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Splitting\obj\Debug\netcoreapp3.1\Splitting.AssemblyInfo.cs
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Splitting\obj\Debug\netcoreapp3.1\Splitting.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Splitting\obj\Debug\netcoreapp3.1\Splitting.dll
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Splitting\obj\Debug\netcoreapp3.1\Splitting.pdb
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Splitting\obj\Debug\netcoreapp3.1\Splitting.genruntimeconfig.cache

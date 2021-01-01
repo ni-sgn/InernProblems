@@ -1,0 +1,13 @@
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.exe
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.deps.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.dev.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.dll
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.pdb
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.csprojAssemblyReference.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfoInputs.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfo.cs
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.dll
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.pdb
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.genruntimeconfig.cache

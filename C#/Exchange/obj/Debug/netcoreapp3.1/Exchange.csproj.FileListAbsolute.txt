@@ -1,0 +1,12 @@
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Exchange\bin\Debug\netcoreapp3.1\Exchange.exe
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Exchange\bin\Debug\netcoreapp3.1\Exchange.deps.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Exchange\bin\Debug\netcoreapp3.1\Exchange.runtimeconfig.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Exchange\bin\Debug\netcoreapp3.1\Exchange.runtimeconfig.dev.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Exchange\bin\Debug\netcoreapp3.1\Exchange.dll
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Exchange\bin\Debug\netcoreapp3.1\Exchange.pdb
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Exchange\obj\Debug\netcoreapp3.1\Exchange.AssemblyInfoInputs.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Exchange\obj\Debug\netcoreapp3.1\Exchange.AssemblyInfo.cs
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Exchange\obj\Debug\netcoreapp3.1\Exchange.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Exchange\obj\Debug\netcoreapp3.1\Exchange.dll
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Exchange\obj\Debug\netcoreapp3.1\Exchange.pdb
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Exchange\obj\Debug\netcoreapp3.1\Exchange.genruntimeconfig.cache

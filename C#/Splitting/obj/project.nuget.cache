@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ex+OUf3K/DZZIR2Sn3JKtVgNuBNCSt/K+7Qg8OKoqy8an33+GW/fAp47tx9+p5nCIhEbG7F2Coddv6rXrOgfUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\coding_reps\\Homework\\Palindrome\\Splitting\\Splitting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

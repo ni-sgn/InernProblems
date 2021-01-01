@@ -1,0 +1,13 @@
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Possibilities\bin\Debug\netcoreapp3.1\Possibilities.exe
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Possibilities\bin\Debug\netcoreapp3.1\Possibilities.deps.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Possibilities\bin\Debug\netcoreapp3.1\Possibilities.runtimeconfig.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Possibilities\bin\Debug\netcoreapp3.1\Possibilities.runtimeconfig.dev.json
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Possibilities\bin\Debug\netcoreapp3.1\Possibilities.dll
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Possibilities\bin\Debug\netcoreapp3.1\Possibilities.pdb
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Possibilities\obj\Debug\netcoreapp3.1\Possibilities.AssemblyInfoInputs.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Possibilities\obj\Debug\netcoreapp3.1\Possibilities.AssemblyInfo.cs
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Possibilities\obj\Debug\netcoreapp3.1\Possibilities.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Possibilities\obj\Debug\netcoreapp3.1\Possibilities.dll
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Possibilities\obj\Debug\netcoreapp3.1\Possibilities.pdb
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Possibilities\obj\Debug\netcoreapp3.1\Possibilities.genruntimeconfig.cache
+C:\Users\user\Documents\coding_reps\Homework\Palindrome\Possibilities\obj\Debug\netcoreapp3.1\Possibilities.csprojAssemblyReference.cache
